@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33617.297
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WykrywaczLososia", "WykrywaczLososia\WykrywaczLososia.csproj", "{E4AC0300-0982-4310-8D88-64570F45D53B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detected", "Detected\Detected.csproj", "{86F9E352-1E2E-44EA-8EF1-65C27E0BA856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4AC0300-0982-4310-8D88-64570F45D53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AC0300-0982-4310-8D88-64570F45D53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AC0300-0982-4310-8D88-64570F45D53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AC0300-0982-4310-8D88-64570F45D53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F9E352-1E2E-44EA-8EF1-65C27E0BA856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F9E352-1E2E-44EA-8EF1-65C27E0BA856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F9E352-1E2E-44EA-8EF1-65C27E0BA856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F9E352-1E2E-44EA-8EF1-65C27E0BA856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12994A13-B2C9-41F3-A0DE-4E2385CD168A}
+	EndGlobalSection
+EndGlobal
